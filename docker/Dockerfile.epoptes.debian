@@ -1,0 +1,5 @@
+FROM debian
+
+RUN apt-get update && apt-get install -y --install-recommends epoptes
+COPY epoptes_init.sh .
+CMD ["/epoptes_init.sh"]
