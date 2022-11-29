@@ -32,3 +32,5 @@ One can add multiple nodes by starting multiple epoptes-clients-*
 
 * (Un)lock, Logout,Screen sharing, broadcasting don't work
 * Executing commands needs to be done with "sudo"
+* Benchmarks
+* Etc. probably several more
